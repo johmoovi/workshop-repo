@@ -47,5 +47,6 @@
         <li>Item 3</li>
         <li>Item 4</li>
       </ul>
+<img src="./images/image.jpg" alt="Sample Image" class="filter-image">
     </body>
 </html>

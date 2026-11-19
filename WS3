@@ -39,5 +39,6 @@
         <input type="email" id="email" name="email"><br><br>
         <input type="submit" value="Submit">
     </form>
+<button class="transition-button">Hover me</button>
     </body>
 </html>
